@@ -1,0 +1,138 @@
+[
+  {
+    "ID_Phieu": "PM01210001",
+    "ID_VatTu": "6",
+    "SoLuong": "5",
+    "Gia": "300000"
+  },
+  {
+    "ID_Phieu": "PM01210001",
+    "ID_VatTu": "7",
+    "SoLuong": "10",
+    "Gia": "500000"
+  },
+  {
+    "ID_Phieu": "PM01210002",
+    "ID_VatTu": "6",
+    "SoLuong": "6",
+    "Gia": "360000"
+  },
+  {
+    "ID_Phieu": "PM01210002",
+    "ID_VatTu": "7",
+    "SoLuong": "7",
+    "Gia": "350000"
+  },
+  {
+    "ID_Phieu": "PM02210001",
+    "ID_VatTu": "8",
+    "SoLuong": "10",
+    "Gia": "150000"
+  },
+  {
+    "ID_Phieu": "PM02210001",
+    "ID_VatTu": "9",
+    "SoLuong": "10",
+    "Gia": "650000"
+  },
+  {
+    "ID_Phieu": "PM02210002",
+    "ID_VatTu": "10",
+    "SoLuong": "5",
+    "Gia": "2500000"
+  },
+  {
+    "ID_Phieu": "PM02210002",
+    "ID_VatTu": "6",
+    "SoLuong": "5",
+    "Gia": "300000"
+  },
+  {
+    "ID_Phieu": "PM03210001",
+    "ID_VatTu": "7",
+    "SoLuong": "5",
+    "Gia": "250000"
+  },
+  {
+    "ID_Phieu": "PM03210001",
+    "ID_VatTu": "8",
+    "SoLuong": "5",
+    "Gia": "75000"
+  },
+  {
+    "ID_Phieu": "PM03210002",
+    "ID_VatTu": "6",
+    "SoLuong": "5",
+    "Gia": "300000"
+  },
+  {
+    "ID_Phieu": "PM03210002",
+    "ID_VatTu": "7",
+    "SoLuong": "10",
+    "Gia": "500000"
+  },
+  {
+    "ID_Phieu": "PM05210001",
+    "ID_VatTu": "6",
+    "SoLuong": "6",
+    "Gia": "360000"
+  },
+  {
+    "ID_Phieu": "PM05210001",
+    "ID_VatTu": "7",
+    "SoLuong": "7",
+    "Gia": "350000"
+  },
+  {
+    "ID_Phieu": "PM05210002",
+    "ID_VatTu": "8",
+    "SoLuong": "10",
+    "Gia": "150000"
+  },
+  {
+    "ID_Phieu": "PM05210002",
+    "ID_VatTu": "9",
+    "SoLuong": "10",
+    "Gia": "650000"
+  },
+  {
+    "ID_Phieu": "PM06210001",
+    "ID_VatTu": "10",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "PM06210001",
+    "ID_VatTu": "6",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "PM06210002",
+    "ID_VatTu": "7",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "PM06210002",
+    "ID_VatTu": "8",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "PM06210003",
+    "ID_VatTu": "6",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "PM06210003",
+    "ID_VatTu": "7",
+    "SoLuong": "10"
+  },
+  {
+    "ID_Phieu": "PM07210001",
+    "ID_VatTu": "8",
+    "SoLuong": "6"
+  },
+  {
+    "ID_Phieu": "PM07210001",
+    "ID_VatTu": "10",
+    "SoLuong": "3"
+  }
+]

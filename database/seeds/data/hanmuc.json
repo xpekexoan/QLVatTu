@@ -1,0 +1,177 @@
+[
+  {
+    "ID_KhoaPB": "PDT",
+    "ID_VPP": "6",
+    "HanMucDaSuDung": "20",
+    "HanMucToiDa": "40",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PDT",
+    "ID_VPP": "7",
+    "HanMucDaSuDung": "15",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PDT",
+    "ID_VPP": "8",
+    "HanMucDaSuDung": "30",
+    "HanMucToiDa": "100",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PDT",
+    "ID_VPP": "9",
+    "HanMucDaSuDung": "15",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PDT",
+    "ID_VPP": "10",
+    "HanMucDaSuDung": "5",
+    "HanMucToiDa": "20",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PCTSV",
+    "ID_VPP": "6",
+    "HanMucDaSuDung": "15",
+    "HanMucToiDa": "40",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PCTSV",
+    "ID_VPP": "7",
+    "HanMucDaSuDung": "18",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PCTSV",
+    "ID_VPP": "8",
+    "HanMucDaSuDung": "25",
+    "HanMucToiDa": "100",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PCTSV",
+    "ID_VPP": "9",
+    "HanMucDaSuDung": "30",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "PCTSV",
+    "ID_VPP": "10",
+    "HanMucDaSuDung": "3",
+    "HanMucToiDa": "20",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KCK",
+    "ID_VPP": "6",
+    "HanMucDaSuDung": "25",
+    "HanMucToiDa": "40",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KCK",
+    "ID_VPP": "7",
+    "HanMucDaSuDung": "15",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KCK",
+    "ID_VPP": "8",
+    "HanMucDaSuDung": "30",
+    "HanMucToiDa": "100",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KCK",
+    "ID_VPP": "9",
+    "HanMucDaSuDung": "10",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KCK",
+    "ID_VPP": "10",
+    "HanMucDaSuDung": "8",
+    "HanMucToiDa": "20",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KD",
+    "ID_VPP": "6",
+    "HanMucDaSuDung": "30",
+    "HanMucToiDa": "40",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KD",
+    "ID_VPP": "7",
+    "HanMucDaSuDung": "20",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KD",
+    "ID_VPP": "8",
+    "HanMucDaSuDung": "60",
+    "HanMucToiDa": "100",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KD",
+    "ID_VPP": "9",
+    "HanMucDaSuDung": "40",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KD",
+    "ID_VPP": "10",
+    "HanMucDaSuDung": "10",
+    "HanMucToiDa": "20",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KXD",
+    "ID_VPP": "6",
+    "HanMucDaSuDung": "35",
+    "HanMucToiDa": "40",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KXD",
+    "ID_VPP": "7",
+    "HanMucDaSuDung": "20",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KXD",
+    "ID_VPP": "8",
+    "HanMucDaSuDung": "20",
+    "HanMucToiDa": "100",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KXD",
+    "ID_VPP": "9",
+    "HanMucDaSuDung": "10",
+    "HanMucToiDa": "50",
+    "NgayBatDau": "1/1/21"
+  },
+  {
+    "ID_KhoaPB": "KXD",
+    "ID_VPP": "10",
+    "HanMucDaSuDung": "3",
+    "HanMucToiDa": "20",
+    "NgayBatDau": "1/1/21"
+  }
+]

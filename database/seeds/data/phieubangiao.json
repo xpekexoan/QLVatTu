@@ -1,0 +1,124 @@
+[
+  {
+    "ID": "BG01210001",
+    "ID_PhieuDN": "PM01210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000004",
+    "NgayBanGiao": "1/16/21"
+  },
+  {
+    "ID": "BG01210002",
+    "ID_PhieuDN": "PM01210002",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000005",
+    "NgayBanGiao": "1/17/21"
+  },
+  {
+    "ID": "BG01210003",
+    "ID_PhieuDN": "PS01210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "GVCB000006",
+    "NgayBanGiao": "1/18/21"
+  },
+  {
+    "ID": "BG01210004",
+    "ID_PhieuDN": "PS01210002",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "GVCB000007",
+    "NgayBanGiao": "1/19/21"
+  },
+  {
+    "ID": "BG01210005",
+    "ID_PhieuDN": "PM01210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000004",
+    "NgayBanGiao": "1/21/21"
+  },
+  {
+    "ID": "BG02210001",
+    "ID_PhieuDN": "PM02210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000004",
+    "NgayBanGiao": "2/16/21"
+  },
+  {
+    "ID": "BG02210002",
+    "ID_PhieuDN": "PM02210002",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000004",
+    "NgayBanGiao": "2/17/21"
+  },
+  {
+    "ID": "BG02210003",
+    "ID_PhieuDN": "PS02210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "GVCB000006",
+    "NgayBanGiao": "2/18/21"
+  },
+  {
+    "ID": "BG02210004",
+    "ID_PhieuDN": "PS02210002",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "GVCB000006",
+    "NgayBanGiao": "2/19/21"
+  },
+  {
+    "ID": "BG03210001",
+    "ID_PhieuDN": "PM03210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000005",
+    "NgayBanGiao": "3/16/21"
+  },
+  {
+    "ID": "BG03210002",
+    "ID_PhieuDN": "PM03210002",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000005",
+    "NgayBanGiao": "3/17/21"
+  },
+  {
+    "ID": "BG03210003",
+    "ID_PhieuDN": "PS03210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "GVCB000006",
+    "NgayBanGiao": "3/18/21"
+  },
+  {
+    "ID": "BG03210004",
+    "ID_PhieuDN": "PS03210002",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "GVCB000006",
+    "NgayBanGiao": "3/19/21"
+  },
+  {
+    "ID": "BG05210001",
+    "ID_PhieuDN": "PM05210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000005",
+    "NgayBanGiao": "3/19/21"
+  },
+  {
+    "ID": "BG05210002",
+    "ID_PhieuDN": "PM05210002",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "QLVT000004",
+    "NgayBanGiao": "3/19/21"
+  },
+  {
+    "ID": "BG05210003",
+    "ID_PhieuDN": "PS05210001",
+    "ID_NVCSVC": "CSVC000002",
+    "ID_NguoiXN": "GVCB000006",
+    "NgayBanGiao": "3/19/21"
+  },
+  {
+    "ID": "BG05210004",
+    "ID_PhieuDN": "PM05210002",
+    "ID_NVCSVC": "CSVC000002"
+  },
+  {
+    "ID": "BG05210005",
+    "ID_PhieuDN": "PM05210001",
+    "ID_NVCSVC": "CSVC000002"
+  }
+]

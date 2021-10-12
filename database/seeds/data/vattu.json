@@ -1,0 +1,57 @@
+[
+  {
+    "Ten": "Máy Chiếu",
+    "DonViTinh": "Cái",
+    "Phong": "Phòng máy tính 1",
+    "LoaiVT": "2"
+  },
+  {
+    "Ten": "Màn Hình",
+    "DonViTinh": "Cái",
+    "Phong": "Phòng máy tính 1",
+    "LoaiVT": "2"
+  },
+  {
+    "Ten": "Máy In",
+    "DonViTinh": "Cái",
+    "Phong": "Phòng công tác sinh viên",
+    "LoaiVT": "2"
+  },
+  {
+    "Ten": "Bàn Phím",
+    "DonViTinh": "Cái",
+    "Phong": "Phòng máy tính 2",
+    "LoaiVT": "2"
+  },
+  {
+    "Ten": "Chuột",
+    "DonViTinh": "Cái",
+    "Phong": "Phòng máy tính 1",
+    "LoaiVT": "2"
+  },
+  {
+    "Ten": "Giấy A4",
+    "DonViTinh": "Ram",
+    "LoaiVT": "1"
+  },
+  {
+    "Ten": "Bút Bi",
+    "DonViTinh": "Hộp",
+    "LoaiVT": "1"
+  },
+  {
+    "Ten": "Kẹp Giấy",
+    "DonViTinh": "Hộp",
+    "LoaiVT": "1"
+  },
+  {
+    "Ten": "Bấm Ghim",
+    "DonViTinh": "Cái",
+    "LoaiVT": "1"
+  },
+  {
+    "Ten": "Máy Tính Bỏ Túi",
+    "DonViTinh": "Cái",
+    "LoaiVT": "1"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "ID_Phieu": "PS01210001",
+    "ID_VatTu": "1",
+    "ChiPhiSua": "500000",
+    "TinhTrangSua": "0",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS01210001",
+    "ID_VatTu": "2",
+    "ChiPhiSua": "200000",
+    "TinhTrangSua": "0",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS01210002",
+    "ID_VatTu": "1",
+    "ChiPhiSua": "550000",
+    "TinhTrangSua": "1",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS01210002",
+    "ID_VatTu": "3",
+    "ChiPhiSua": "400000",
+    "TinhTrangSua": "1",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS02210001",
+    "ID_VatTu": "4",
+    "ChiPhiSua": "100000",
+    "TinhTrangSua": "0",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS02210001",
+    "ID_VatTu": "5",
+    "ChiPhiSua": "80000",
+    "TinhTrangSua": "0",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS02210002",
+    "ID_VatTu": "2",
+    "ChiPhiSua": "250000",
+    "TinhTrangSua": "1",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS02210002",
+    "ID_VatTu": "4",
+    "ChiPhiSua": "150000",
+    "TinhTrangSua": "1",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS03210001",
+    "ID_VatTu": "3",
+    "ChiPhiSua": "350000",
+    "TinhTrangSua": "0",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS03210001",
+    "ID_VatTu": "5",
+    "ChiPhiSua": "100000",
+    "TinhTrangSua": "0",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS03210002",
+    "ID_VatTu": "1",
+    "ChiPhiSua": "450000",
+    "TinhTrangSua": "1",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS03210002",
+    "ID_VatTu": "2",
+    "ChiPhiSua": "150000",
+    "TinhTrangSua": "1",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS05210001",
+    "ID_VatTu": "1",
+    "ChiPhiSua": "500000",
+    "TinhTrangSua": "0",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS05210001",
+    "ID_VatTu": "2",
+    "ChiPhiSua": "200000",
+    "TinhTrangSua": "0",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS05210002",
+    "ID_VatTu": "1",
+    "LyDo": "Hư"
+  },
+  {
+    "ID_Phieu": "PS05210002",
+    "ID_VatTu": "3",
+    "LyDo": "Hư"
+  }
+]

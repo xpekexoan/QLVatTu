@@ -1,0 +1,32 @@
+[
+  {
+    "ID": "PCSVC",
+    "Ten": "Phòng cơ sở vật chất",
+    "Loai": 1
+  },
+  {
+    "ID": "KXD",
+    "Ten": "Khoa xây dựng",
+    "Loai": 2
+  },
+  {
+    "ID": "KD",
+    "Ten": "Khoa điện",
+    "Loai": 2
+  },
+  {
+    "ID": "PCTSV",
+    "Ten": "Phòng công tác sinh viên",
+    "Loai": 1
+  },
+  {
+    "ID": "KCK",
+    "Ten": "Khoa cơ Khí",
+    "Loai": 2
+  },
+  {
+    "ID": "PDT",
+    "Ten": "Phòng Đào Tạo",
+    "Loai": 1
+  }
+]

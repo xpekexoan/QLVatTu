@@ -1,0 +1,181 @@
+[
+  {
+      "ID": "PM01210001",
+      "ID_NguoiDN": "QLVT000004",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "1/7/21",
+      "NgayDuKien": "1/14/21",
+      "NgayHoanThanh": "1/15/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PM01210002",
+      "ID_NguoiDN": "QLVT000005",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "1/8/21",
+      "NgayDuKien": "1/15/21",
+      "NgayHoanThanh": "1/16/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PS01210001",
+      "ID_NguoiDN": "GVCB000006",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "2",
+      "NgayLapPhieu": "1/7/21",
+      "NgayDuKien": "1/16/21",
+      "NgayHoanThanh": "1/17/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PS01210002",
+      "ID_NguoiDN": "GVCB000007",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "2",
+      "NgayLapPhieu": "1/8/21",
+      "NgayDuKien": "1/17/21",
+      "NgayHoanThanh": "1/18/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PM02210001",
+      "ID_NguoiDN": "QLVT000004",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "2/7/21",
+      "NgayDuKien": "2/14/21",
+      "NgayHoanThanh": "2/15/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PM02210002",
+      "ID_NguoiDN": "QLVT000004",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "2/8/21",
+      "NgayDuKien": "2/15/21",
+      "NgayHoanThanh": "2/16/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PS02210001",
+      "ID_NguoiDN": "GVCB000006",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "2",
+      "NgayLapPhieu": "2/9/21",
+      "NgayDuKien": "2/16/21",
+      "NgayHoanThanh": "2/17/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PS02210002",
+      "ID_NguoiDN": "GVCB000006",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "2",
+      "NgayLapPhieu": "2/10/21",
+      "NgayDuKien": "2/17/21",
+      "NgayHoanThanh": "2/18/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PM03210001",
+      "ID_NguoiDN": "QLVT000005",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "3/7/21",
+      "NgayDuKien": "3/14/21",
+      "NgayHoanThanh": "3/15/21",
+      "TrangThai": "3"
+  },
+  {
+      "ID": "PM03210002",
+      "ID_NguoiDN": "QLVT000005",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "3/8/21",
+      "NgayDuKien": "3/15/21",
+      "TrangThai": "2"
+  },
+  {
+      "ID": "PS03210001",
+      "ID_NguoiDN": "GVCB000006",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "2",
+      "NgayLapPhieu": "3/9/21",
+      "NgayDuKien": "3/16/21",
+      "TrangThai": "2"
+  },
+  {
+      "ID": "PS03210002",
+      "ID_NguoiDN": "GVCB000006",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "2",
+      "NgayLapPhieu": "3/10/21",
+      "NgayDuKien": "3/17/21",
+      "TrangThai": "2"
+  },
+  {
+      "ID": "PM05210001",
+      "ID_NguoiDN": "QLVT000005",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "5/7/21",
+      "NgayDuKien": "5/14/21",
+      "TrangThai": "2"
+  },
+  {
+      "ID": "PM05210002",
+      "ID_NguoiDN": "QLVT000004",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "5/8/21",
+      "NgayDuKien": "5/15/21",
+      "TrangThai": "2"
+  },
+  {
+      "ID": "PS05210001",
+      "ID_NguoiDN": "GVCB000006",
+      "ID_NVCSVC": "CSVC000002",
+      "LoaiPhieu": "2",
+      "NgayLapPhieu": "5/9/21",
+      "NgayDuKien": "5/16/21",
+      "TrangThai": "2"
+  },
+  {
+      "ID": "PS05210002",
+      "ID_NguoiDN": "GVCB000006",
+      "LoaiPhieu": "2",
+      "NgayLapPhieu": "5/10/21",
+      "TrangThai": "1"
+  },
+  {
+      "ID": "PM06210001",
+      "ID_NguoiDN": "QLVT000005",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "6/7/21",
+      "TrangThai": "1"
+  },
+  {
+      "ID": "PM06210002",
+      "ID_NguoiDN": "QLVT000004",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "6/8/21",
+      "TrangThai": "1"
+  },
+  {
+      "ID": "PM06210003",
+      "ID_NguoiDN": "QLVT000005",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "6/9/21",
+      "TrangThai": "1"
+  },
+  {
+      "ID": "PM07210001",
+      "ID_NguoiDN": "QLVT000004",
+      "LoaiPhieu": "1",
+      "NgayLapPhieu": "7/7/21",
+      "TrangThai": "1"
+  }
+]

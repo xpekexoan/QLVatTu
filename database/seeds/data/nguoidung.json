@@ -1,0 +1,86 @@
+[
+  {
+    "ID": "CSVC000001",
+    "HoTen": "Nguyễn Văn A",
+    "NgaySinh": "1989/12/20",
+    "CMND": "123456789",
+    "SDT": "0905123456",
+    "Email": "nguyenvana@gmail.com",
+    "TaiKhoan": "admin",
+    "MatKhau": "123123",
+    "LoaiTK": "1",
+    "ID_KhoaPB": "PCSVC"
+  },
+  {
+    "ID": "CSVC000002",
+    "HoTen": "Nguyễn Văn B",
+    "NgaySinh": "1990/6/22",
+    "CMND": "123456787",
+    "SDT": "0932456789",
+    "Email": "nguyenvanb@gmail.com",
+    "TaiKhoan": "b123",
+    "MatKhau": "123123",
+    "LoaiTK": "2",
+    "ID_KhoaPB": "PCSVC"
+  },
+  {
+    "ID": "CSVC000003",
+    "HoTen": "Nguyễn Văn C",
+    "NgaySinh": "1991/12/20",
+    "CMND": "123456987",
+    "SDT": "0984563215",
+    "Email": "nguyenvanc@gmail.com",
+    "TaiKhoan": "c123",
+    "MatKhau": "123123",
+    "LoaiTK": "2",
+    "ID_KhoaPB": "PCSVC"
+  },
+  {
+    "ID": "QLVT000004",
+    "HoTen": "Nguyễn Văn D",
+    "NgaySinh": "1992/12/20",
+    "CMND": "123753951",
+    "SDT": "0914569874",
+    "Email": "nguyenvand@gmail.com",
+    "TaiKhoan": "d123",
+    "MatKhau": "123123",
+    "LoaiTK": "3",
+    "ID_KhoaPB": "KXD"
+  },
+  {
+    "ID": "QLVT000005",
+    "HoTen": "Nguyễn Văn E",
+    "NgaySinh": "1993/12/20",
+    "CMND": "123654978",
+    "SDT": "0985632147",
+    "Email": "nguyenvane@gmail.com",
+    "TaiKhoan": "e123",
+    "MatKhau": "123123",
+    "LoaiTK": "3",
+    "ID_KhoaPB": "PCTSV"
+  },
+  {
+    "ID": "GVCB000006",
+    "HoTen": "Nguyễn Văn G",
+    "NgaySinh": "1994/12/20",
+    "CMND": "159753456",
+    "SDT": "0945896321",
+    "Email": "nguyenvang@gmail.com",
+    "TaiKhoan": "g123",
+    "MatKhau": "123123",
+    "LoaiTK": "4",
+    "ID_KhoaPB": "KD"
+  },
+  {
+    "ID": "GVCB000007",
+    "HoTen": "Nguyễn hữu Tuấn",
+    "NgaySinh": "1994/12/20",
+    "CMND": "159753456",
+    "SDT": "0945896321",
+    "Email": "nguyenvang@gmail.com",
+    "TaiKhoan": "tuan123",
+    "MatKhau": "123123",
+    "LoaiTK": "4",
+    "ID_KhoaPB": "KXD"
+  }
+]

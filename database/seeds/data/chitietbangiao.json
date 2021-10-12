@@ -1,0 +1,167 @@
+[
+  {
+    "ID_Phieu": "BG01210001",
+    "ID_VatTu": "6",
+    "SoLuong": "3"
+  },
+  {
+    "ID_Phieu": "BG01210001",
+    "ID_VatTu": "7",
+    "SoLuong": "10"
+  },
+  {
+    "ID_Phieu": "BG01210002",
+    "ID_VatTu": "6",
+    "SoLuong": "6"
+  },
+  {
+    "ID_Phieu": "BG01210002",
+    "ID_VatTu": "7",
+    "SoLuong": "7"
+  },
+  {
+    "ID_Phieu": "BG01210003",
+    "ID_VatTu": "1",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG01210003",
+    "ID_VatTu": "2",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG01210004",
+    "ID_VatTu": "1",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG01210004",
+    "ID_VatTu": "3",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG01210005",
+    "ID_VatTu": "6",
+    "SoLuong": "2"
+  },
+  {
+    "ID_Phieu": "BG02210001",
+    "ID_VatTu": "8",
+    "SoLuong": "10"
+  },
+  {
+    "ID_Phieu": "BG02210001",
+    "ID_VatTu": "9",
+    "SoLuong": "10"
+  },
+  {
+    "ID_Phieu": "BG02210002",
+    "ID_VatTu": "10",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "BG02210002",
+    "ID_VatTu": "6",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "BG02210003",
+    "ID_VatTu": "4",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG02210003",
+    "ID_VatTu": "5",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG02210004",
+    "ID_VatTu": "2",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG02210004",
+    "ID_VatTu": "4",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG03210001",
+    "ID_VatTu": "7",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "BG03210001",
+    "ID_VatTu": "8",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "BG03210002",
+    "ID_VatTu": "6",
+    "SoLuong": "5"
+  },
+  {
+    "ID_Phieu": "BG03210002",
+    "ID_VatTu": "7",
+    "SoLuong": "10"
+  },
+  {
+    "ID_Phieu": "BG03210003",
+    "ID_VatTu": "3",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG03210003",
+    "ID_VatTu": "5",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG03210004",
+    "ID_VatTu": "1",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG03210004",
+    "ID_VatTu": "2",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG05210001",
+    "ID_VatTu": "7",
+    "SoLuong": "7"
+  },
+  {
+    "ID_Phieu": "BG05210002",
+    "ID_VatTu": "8",
+    "SoLuong": "4"
+  },
+  {
+    "ID_Phieu": "BG05210002",
+    "ID_VatTu": "9",
+    "SoLuong": "9"
+  },
+  {
+    "ID_Phieu": "BG05210003",
+    "ID_VatTu": "1",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG05210003",
+    "ID_VatTu": "2",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG05210004",
+    "ID_VatTu": "8",
+    "SoLuong": "6"
+  },
+  {
+    "ID_Phieu": "BG05210004",
+    "ID_VatTu": "9",
+    "SoLuong": "1"
+  },
+  {
+    "ID_Phieu": "BG05210005",
+    "ID_VatTu": "6",
+    "SoLuong": "6"
+  }
+]
